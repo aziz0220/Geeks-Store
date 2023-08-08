@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="7828ffd4-9004-46db-87ff-e30f16d0439a" />
+          <option name="name" value="geeks_store@localhost (DDL)" />
+          <option name="dbmsName" value="MYSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/sql/geeks_store/Order.sql" />
+              <option value="file://$PROJECT_DIR$/sql/geeks_store/order details.sql" />
+              <option value="file://$PROJECT_DIR$/sql/geeks_store/product.sql" />
+              <option value="file://$PROJECT_DIR$/sql/geeks_store/user.sql" />
+            </array>
+          </option>
+          <option name="outLayout" value="File per object by schema.groovy" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
